@@ -1,0 +1,13 @@
+.App{
+  width: 800px;
+  height: 600px;
+  top: 0;
+  margin: auto;
+  border: 3px solid rgb(203, 42, 42); 
+}
+
+#canvas{
+  display: block;
+}
+
+
